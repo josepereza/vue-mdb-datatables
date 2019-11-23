@@ -10,3 +10,7 @@ https://datatables.net/examples/basic_init/zero_configuration.html
 Tambien utilizamos la plantilla vue con mdb, que nos ofrece mdbootstrap.
 
 https://mdbootstrap.com/docs/vue/getting-started/quick-start/
+
+Tambien podemos utilizar directamente los CDN normales de mdbootstrap:
+
+https://mdbootstrap.com/md-bootstrap-cdn/
